@@ -79,7 +79,7 @@ The program demonstrates:
 
 **Assignment:** Practical Assignment 1
 
-**LinkedIn Profile:** [Insert your LinkedIn profile link]
+**LinkedIn Profile:** www.linkedin.com/in/richybofwa 
 
 ## References
 
